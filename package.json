@@ -1,0 +1,17 @@
+{
+    "name" : "com.simmgames.devtools",
+    "version" : "1.0.0",
+    "description": "A Console and Versioning System",
+    "displayName": "Dev Tools",
+    "unity": "2020.3",
+    "author": 
+    {
+        "name": "sim2kid",
+        "email": "contact@simmgames.com",
+        "url": "https://simmgames.com/"
+    },
+    "documentationUrl": "https://github.com/SimmGames/com.simmgames.devtools",
+    "hideInEditor": false,
+    "keywords": ["console", "version", "versionControl"],
+    "license": "MIT"
+}
